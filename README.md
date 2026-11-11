@@ -4,7 +4,7 @@ Hi! My name is Ivan, and I am an Information Security Specialist (Penetration Te
 This repository contains my solutions to the PortSwigger Web Security Academy labs. I document the most interesting and complex cases to showcase my approach to finding and exploiting vulnerabilities.
 
 ## Statistics
-*   **Total solved:** 69 labs (and counting).
+*   **Total solved:** 70 labs (13 Expert).
 *   **Difficulty levels:** Focused on **Expert** and **Practitioner** level tasks.
 *   **Key Topics:** SQLi, XSS, SSRF, HTTP Request Smuggling, Web Cache Poisoning, Path Traversal, Authentication, and Access Control.
 
